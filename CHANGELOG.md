@@ -1,5 +1,9 @@
 ## ChangeLog
 
+### Release 0.3.5 - 2019/05/28
+
+- Add support for *lzo* extension
+
 ### Release 0.3.0 - 2017/02/28
 
 - Add support for setting a File's storage_class on file creation
@@ -13,4 +17,3 @@
 ### Release 0.1.1 - 2016/11/28
 
 - Add support for `%{hostname}` of object_key_format
-
